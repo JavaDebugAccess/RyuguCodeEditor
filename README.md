@@ -1,4 +1,5 @@
 # RyuguCodeEditor
 - ReleaseにEXEがあります
 - あと怪しかったらソースコード見てください
-- あとMataTukutta.pdbとMataTukutta.dllもダウンロードしないと動かなかった
+- あとMataTukutta.pdbとMataTukutta.dllとMataTukutta.runtimeconfig.json
+をダウンロードしないと動かなかった
